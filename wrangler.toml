@@ -1,0 +1,6 @@
+name = "cloudflare-s2021-oa"
+type = "webpack"
+account_id = "87f81ae073576eb2856e78d417943864"
+workers_dev = true
+route = ""
+zone_id = ""
